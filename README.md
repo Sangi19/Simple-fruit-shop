@@ -16,6 +16,7 @@
 - [About the Project](#about-the-project)
 - [Built With](#built-with)
 - [How it works](#How-it-works)
+- [Deplayment](#app-deployment)
 - [Contact](#Authors)
 
 
@@ -33,6 +34,7 @@ This project was built using these technologies.
 <!-- HOW IT WORKS -->
 
 ## How It Works
+
  React Fruit shop : <br>
 ![React Fruit Basket  - Base](https://github.com/Sangi19/Simple-fruit-shop/blob/main/images/base-fruitshop-app.PNG)
 
@@ -40,6 +42,11 @@ AAdd and remove cart:
 
 ![React Fruit Basket  - disabled ADD button with discount price](https://github.com/Sangi19/Simple-fruit-shop/blob/main/images/addDeleteFN.PNG)
 
+
+## App deployment
+
+ 
+- Click the link for [live app in Vercel](simple-fruit-shop-in9x.vercel.app) 
 
 ## Built by
 
