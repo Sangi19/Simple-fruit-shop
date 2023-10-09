@@ -29,8 +29,8 @@ function App() {
 //Add Item
 const addItem = (item) => {
   const id= Math.floor(Math.random() * 10000) +1
-  const newTask= {id, ...item}
-  setItem([...items, newItem])
+  const newItem= {id, ...item}
+  setItems([...items, newItem])
 }
 
 

@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 
-const AddItem = () => {
+const AddItem = ({onAdd}) => {
     const [fruit, setFruit] = useState('')
     const [price, setPrice] = useState('')
     const [quantity, setQuantity] = useState('')
