@@ -33,12 +33,12 @@ This project was built using these technologies.
 <!-- HOW IT WORKS -->
 
 ## How It Works
- <!-- React Fruit Basket : <br>
-![React Fruit Basket  - Base](https://github.com/Sangi19/fruit-basket/blob/master/Images/basic.PNG)
+ React Fruit shop : <br>
+![React Fruit Basket  - Base](https://github.com/Sangi19/Simple-fruit-shop/blob/main/images/base-fruitshop-app.PNG)
 
-Added disable functionality in ADD button:
+AAdd and remove cart:
 
-![React Fruit Basket  - disabled ADD button with discount price](https://github.com/Sangi19/fruit-basket/blob/master/Images/snip.PNG)) -->
+![React Fruit Basket  - disabled ADD button with discount price](https://github.com/Sangi19/Simple-fruit-shop/blob/main/images/addDeleteFN.PNG)
 
 
 ## Built by
