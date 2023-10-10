@@ -46,7 +46,7 @@ AAdd and remove cart:
 ## App deployment
 
  
-- Click the link for [live app in Vercel](simple-fruit-shop-in9x.vercel.app) 
+- Click the link for [live app in Vercel](https://simple-fruit-shop.vercel.app/)
 
 ## Built by
 
